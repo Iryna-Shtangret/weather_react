@@ -14,7 +14,7 @@ export default function InfoWeather(props) {
       <div className="row mt-3">
         <div className="col-6">
           <img
-            src={props.data.iconUrl}
+            src={props.data.icon}
             alt={props.data.description}
             //className="float-left"
           />
