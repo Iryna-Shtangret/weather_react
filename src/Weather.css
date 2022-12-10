@@ -27,10 +27,9 @@
   font-weight: 100;
 }
 
-.Weather img {
+.Weather canvas {
+  margin: 0 auto;
   vertical-align: top;
-  height: 70px;
-  width: 70px;
 }
 
 .Weather .temperature {
